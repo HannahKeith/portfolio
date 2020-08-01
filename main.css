@@ -107,7 +107,12 @@ div.foo{
 
 h2{
   color: grey;
+  padding-top: 30px;
 }
 
+
+#picture {
+  border-radius: 100%;
+}
 
 /* IDEA: https://codepen.io/bernardo/pen/ugApF */
